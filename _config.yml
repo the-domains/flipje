@@ -5,10 +5,4 @@ color:
   lightness: 0.5196841
   brandStrength: 0.03538965
   rhythmicContrast: 0.1142114
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
 name: Flipje
